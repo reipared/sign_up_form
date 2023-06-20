@@ -1,1 +1,3 @@
-# sign_up_form
+# Sign-up Form with Social Login Integration
+
+This project showcases a sign-up form with social login integration using HTML, CSS, and JavaScript. The form allows users to create a new account by entering their name, email, and password. Alternatively, users can also sign in using their existing email and password. The form design is visually appealing and responsive, providing a seamless user experience on different devices. Social login options are available through Facebook, Twitter, and LinkedIn, allowing users to easily sign up or sign in using their social media accounts. The project also includes a dynamic panel transition effect, where users can switch between the sign-up and sign-in forms by clicking on the corresponding buttons. The project was inspired by Florin Pop and was created by Reinaldo.
